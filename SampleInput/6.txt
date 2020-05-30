@@ -1,0 +1,5 @@
+A
+A -> aABj | a
+B -> Bb | d
+
+aadj

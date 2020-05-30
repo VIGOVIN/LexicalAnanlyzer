@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/CppProject/LexicalAnalyzer/DataStructure.h
+bits/stdc++.h
+-
+algorithm
+-
+fstream
+-
+iostream
+-
+map
+-
+deque
+-
+queue
+-
+ctime
+-
+set
+-
+stack
+-
+vector
+-
+climits
+-
+unistd.h
+E:/CppProject/LexicalAnalyzer/unistd.h
+
+E:/CppProject/LexicalAnalyzer/Operation.h
+DataStructure.h
+E:/CppProject/LexicalAnalyzer/DataStructure.h
+
+E:/CppProject/LexicalAnalyzer/main.cpp
+DataStructure.h
+E:/CppProject/LexicalAnalyzer/DataStructure.h
+Operation.h
+E:/CppProject/LexicalAnalyzer/Operation.h
+
